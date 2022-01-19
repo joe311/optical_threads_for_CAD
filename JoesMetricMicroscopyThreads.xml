@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>Metric Microscopy Threads</Name>
+  <CustomName>Joe's Metric Microscopy Threads</CustomName>
+  <Unit>mm</Unit>
+  <Angle>60</Angle>
+  <SortOrder>3</SortOrder>
+  <ThreadSize>
+    <Size>25</Size>
+    <Designation>
+      <ThreadDesignation>M25 x 0.75 Objective Thread</ThreadDesignation>
+      <CTD>M25x0.75</CTD>
+      <Pitch>0.75</Pitch>
+        <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>24.9070</MajorDia>
+        <PitchDia>24.4345</PitchDia>
+        <MinorDia>24.1650</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>25.0000</MajorDia>
+        <PitchDia>24.5860</PitchDia>
+        <MinorDia>24.2830</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+  <ThreadSize>
+    <Size>30.5</Size>
+    <Designation>
+      <ThreadDesignation>Thorlabs SM30 M30.5 x 0.5</ThreadDesignation>
+      <CTD>M30.5x0.5</CTD>
+      <Pitch>0.5</Pitch>
+        <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>30.4255</MajorDia>
+        <PitchDia>30.1070</PitchDia>
+        <MinorDia>29.9380</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>30.5000</MajorDia>
+        <PitchDia>30.2385</PitchDia>
+        <MinorDia>30.0265</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+  <ThreadSize>
+    <Size>32</Size>
+    <Designation>
+      <ThreadDesignation>M32 x 0.75 Objective Thread</ThreadDesignation>
+      <CTD>M32x0.75</CTD>
+      <Pitch>0.75</Pitch>
+        <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>31.9070</MajorDia>
+        <PitchDia>31.4330</PitchDia>
+        <MinorDia>31.1650</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>32.0000</MajorDia>
+        <PitchDia>31.5880</PitchDia>
+        <MinorDia>31.2830</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+</ThreadType>
