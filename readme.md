@@ -1,4 +1,4 @@
-##Joe's Microscopy Thread files for Fusion 360 
+## Joe's Microscopy Thread files for Fusion 360 
 Provides the following commonly used microscopy/thorlabs threads: 
 - UNS threads:
     - SM05, SM1, SM1.5, SM2, SM3, SM4
@@ -17,7 +17,7 @@ Note that when you update fusion you might need to reinstall the xml files to th
 In Fusion threads are selected by size, but then in Designation give a full name. 
 
 <br>
-----
+----- 
 
 Details on threading specs are from: 
 https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=10426
