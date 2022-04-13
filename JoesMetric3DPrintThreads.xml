@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>Metric 3D Print Threads</Name>
+  <CustomName>Joe's Metric 3D Print Threads</CustomName>
+  <Unit>mm</Unit>
+  <Angle>60</Angle>
+  <SortOrder>3</SortOrder>
+  <ThreadSize>
+    <Size>25</Size>
+    <Designation>
+      <ThreadDesignation>M25x1.5 3D</ThreadDesignation>
+      <CTD>M25x1.5</CTD>
+      <Pitch>1.5</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>3D</Class>
+        <MajorDia>23.99</MajorDia>
+        <PitchDia>23.519</PitchDia>
+        <MinorDia>22.932</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>3D</Class>
+        <MajorDia>25.308</MajorDia>
+        <PitchDia>24.426</PitchDia>
+        <MinorDia>23.726</MinorDia>
+        <TapDrill>23.5</TapDrill>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+</ThreadType>
