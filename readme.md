@@ -3,7 +3,7 @@ Provides the following commonly used microscopy/thorlabs threads:
 - UNS threads:
     - SM05, SM1, SM1.5, SM2, SM3, SM4, RMS
 - Metric threads:
-    - SM30, M
+    - SM30, M25, M32
     
 To install copy all *.xml files to <br> __%localappdata%\Autodesk\webdeploy\Production\<version ID>\Fusion\Server\Fusion\Configuration\ThreadData__
 
@@ -15,6 +15,8 @@ Navigate deeper to \Fusion\Server\Fusion\Configuration\ThreadData
 Note that when you update fusion you might need to reinstall the xml files to the new version ID number. 
 
 In Fusion threads are selected by size, but then in Designation give a full name. 
+
+Also thread calc helper now contains a 2nd sheet for UNS threads in inventor (which uses a different format...)
 
 <br>
 ----- 
