@@ -36,16 +36,16 @@
         <Thread>
         <Gender>external</Gender>
         <Class>2A</Class>
-        <MajorDia>0.7900</MajorDia>
-        <PitchDia>0.7750</PitchDia>
-        <MinorDia>0.7600</MinorDia>
+        <MajorDia>0.7962</MajorDia>
+        <PitchDia>0.7792</PitchDia>
+        <MinorDia>0.7688</MinorDia>
       </Thread>
       <Thread>
         <Gender>internal</Gender>
         <Class>2B</Class>
         <MajorDia>0.8000</MajorDia>
-        <PitchDia>0.7800</PitchDia>
-        <MinorDia>0.7000</MinorDia>
+        <PitchDia>0.7843</PitchDia>
+        <MinorDia>0.7735</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
