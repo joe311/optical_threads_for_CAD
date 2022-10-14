@@ -1,9 +1,9 @@
 ## Joe's Microscopy Thread files for Fusion 360 
 Provides the following commonly used microscopy/thorlabs threads: 
 - UNS threads:
-    - SM05, SM1, SM1.5, SM2, SM3, SM4
+    - SM05, SM1, SM1.5, SM2, SM3, SM4, RMS
 - Metric threads:
-    - SM30, RMS, M
+    - SM30, M
     
 To install copy all *.xml files to <br> __%localappdata%\Autodesk\webdeploy\Production\<version ID>\Fusion\Server\Fusion\Configuration\ThreadData__
 
@@ -21,6 +21,7 @@ In Fusion threads are selected by size, but then in Designation give a full name
 
 Details on threading specs are from: 
 https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=10426
+and https://www.thorlabs.de/newgrouppage9.cfm?objectgroup_id=1189 
 
 Details on Fusion 360 Custom threads: 
 https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Custom-Threads-in-Fusion-360.html 
