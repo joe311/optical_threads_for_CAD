@@ -71,4 +71,26 @@
       </Thread>
     </Designation>
   </ThreadSize>
+  <ThreadSize>
+    <Size>38</Size>
+    <Designation>
+      <ThreadDesignation>M38 x 0.5 Thread</ThreadDesignation>
+      <CTD>M38x0.5</CTD>
+      <Pitch>0.5</Pitch>
+        <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>37.94</MajorDia>
+        <PitchDia>37.70</PitchDia>
+        <MinorDia>37.3</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>38.0000</MajorDia>
+        <PitchDia>37.80</PitchDia>
+        <MinorDia>37.40</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
 </ThreadType>
