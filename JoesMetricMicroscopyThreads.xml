@@ -87,9 +87,9 @@
       <Thread>
         <Gender>internal</Gender>
         <Class>6H</Class>
-        <MajorDia>38.0000</MajorDia>
-        <PitchDia>37.80</PitchDia>
-        <MinorDia>37.40</MinorDia>
+        <MajorDia>38.010</MajorDia>
+        <PitchDia>37.70</PitchDia>
+        <MinorDia>37.35</MinorDia>
       </Thread>
     </Designation>
   </ThreadSize>
